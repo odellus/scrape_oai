@@ -2,7 +2,9 @@
 Scrape a shared conversation from ChatGPT
 
 # Install
+```bash
 python -m pip install -r requirements.txt
+```
 
 # Use
 ```bash
